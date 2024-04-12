@@ -2,5 +2,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
         System.err.println("second commit");
+        System.out.println("new changes");
     }
 }
